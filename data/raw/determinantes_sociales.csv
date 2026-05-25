@@ -1,0 +1,24 @@
+municipio,codigo_divipola,departamento,año,indicador,valor,unidad,fuente
+Ciudad Bolívar,05154,Antioquia,2023,Índice de pobreza multidimensional (IPM),42.3,porcentaje,DANE
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura de acueducto,78.4,porcentaje,Superintendencia de Servicios
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura de alcantarillado,65.2,porcentaje,Superintendencia de Servicios
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura de energía eléctrica,94.1,porcentaje,UPME
+Ciudad Bolívar,05154,Antioquia,2023,Tasa de analfabetismo,8.7,porcentaje,Ministerio de Educación
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura en educación básica,87.3,porcentaje,Ministerio de Educación
+Ciudad Bolívar,05154,Antioquia,2023,Tasa de desempleo,12.4,porcentaje,DANE
+Ciudad Bolívar,05154,Antioquia,2023,Hogares con NBI,28.6,porcentaje,DANE
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura vacunación DPT,84.2,porcentaje,MSPS
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura vacunación polio,83.7,porcentaje,MSPS
+Ciudad Bolívar,05154,Antioquia,2023,Cobertura vacunación triple viral,82.1,porcentaje,MSPS
+Ciudad Bolívar,05154,Antioquia,2023,Proporción de partos institucionales,92.4,porcentaje,MSPS
+Ciudad Bolívar,05154,Antioquia,2023,Razón de mortalidad materna x100000,48.2,por 100000 NV,MSPS
+Ciudad Bolívar,05154,Antioquia,2023,Tasa de mortalidad infantil x1000,12.3,por 1000 NV,MSPS
+Ciudad Bolívar,05154,Antioquia,2023,Prevalencia de desnutrición crónica,14.8,porcentaje,ICBF
+Ciudad Bolívar,05154,Antioquia,2023,Prevalencia de desnutrición aguda,3.2,porcentaje,ICBF
+Ciudad Bolívar,05154,Antioquia,2022,Índice de pobreza multidimensional (IPM),44.1,porcentaje,DANE
+Ciudad Bolívar,05154,Antioquia,2022,Cobertura de acueducto,76.8,porcentaje,Superintendencia de Servicios
+Ciudad Bolívar,05154,Antioquia,2022,Tasa de mortalidad infantil x1000,13.8,por 1000 NV,MSPS
+Ciudad Bolívar,05154,Antioquia,2022,Cobertura vacunación DPT,81.5,porcentaje,MSPS
+Ciudad Bolívar,05154,Antioquia,2021,Índice de pobreza multidimensional (IPM),46.7,porcentaje,DANE
+Ciudad Bolívar,05154,Antioquia,2021,Tasa de mortalidad infantil x1000,15.2,por 1000 NV,MSPS
+Ciudad Bolívar,05154,Antioquia,2021,Cobertura vacunación DPT,76.3,porcentaje,MSPS

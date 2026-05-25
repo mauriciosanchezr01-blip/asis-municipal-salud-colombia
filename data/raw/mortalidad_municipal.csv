@@ -1,0 +1,21 @@
+municipio,codigo_divipola,departamento,año,causa_muerte,codigo_cie10,grupo_causa,sexo,grupo_etario,numero_muertes,tasa_mortalidad_x100mil
+Ciudad Bolívar,05154,Antioquia,2023,Enfermedades isquémicas del corazón,I20-I25,Enfermedades cardiovasculares,M,60 años y más,12,24.88
+Ciudad Bolívar,05154,Antioquia,2023,Enfermedades isquémicas del corazón,I20-I25,Enfermedades cardiovasculares,F,60 años y más,9,18.66
+Ciudad Bolívar,05154,Antioquia,2023,Diabetes mellitus,E10-E14,Enfermedades crónicas,F,45 a 59 años,7,14.51
+Ciudad Bolívar,05154,Antioquia,2023,Accidente cerebrovascular,I60-I69,Enfermedades cardiovasculares,M,60 años y más,6,12.44
+Ciudad Bolívar,05154,Antioquia,2023,Tumor maligno de estómago,C16,Neoplasias,M,45 a 59 años,5,10.37
+Ciudad Bolívar,05154,Antioquia,2023,Neumonía,J12-J18,Enfermedades respiratorias,M,60 años y más,5,10.37
+Ciudad Bolívar,05154,Antioquia,2023,Tumor maligno de mama,C50,Neoplasias,F,30 a 44 años,4,8.29
+Ciudad Bolívar,05154,Antioquia,2023,Enfermedad pulmonar obstructiva,J40-J44,Enfermedades respiratorias,M,60 años y más,4,8.29
+Ciudad Bolívar,05154,Antioquia,2023,Agresiones (homicidios),X85-Y09,Causas externas,M,15 a 29 años,8,16.59
+Ciudad Bolívar,05154,Antioquia,2023,Accidentes de transporte,V01-V99,Causas externas,M,15 a 29 años,6,12.44
+Ciudad Bolívar,05154,Antioquia,2023,Desnutrición,E40-E46,Nutricionales,M,Menor de 5 años,3,6.22
+Ciudad Bolívar,05154,Antioquia,2023,Desnutrición,E40-E46,Nutricionales,F,Menor de 5 años,2,4.15
+Ciudad Bolívar,05154,Antioquia,2022,Enfermedades isquémicas del corazón,I20-I25,Enfermedades cardiovasculares,M,60 años y más,11,22.97
+Ciudad Bolívar,05154,Antioquia,2022,Enfermedades isquémicas del corazón,I20-I25,Enfermedades cardiovasculares,F,60 años y más,8,16.71
+Ciudad Bolívar,05154,Antioquia,2022,Diabetes mellitus,E10-E14,Enfermedades crónicas,F,45 a 59 años,6,12.53
+Ciudad Bolívar,05154,Antioquia,2022,Agresiones (homicidios),X85-Y09,Causas externas,M,15 a 29 años,10,20.88
+Ciudad Bolívar,05154,Antioquia,2022,Tumor maligno de estómago,C16,Neoplasias,M,45 a 59 años,5,10.44
+Ciudad Bolívar,05154,Antioquia,2021,Enfermedades isquémicas del corazón,I20-I25,Enfermedades cardiovasculares,M,60 años y más,14,29.65
+Ciudad Bolívar,05154,Antioquia,2021,COVID-19,U07,Enfermedades respiratorias,M,60 años y más,18,38.11
+Ciudad Bolívar,05154,Antioquia,2021,COVID-19,U07,Enfermedades respiratorias,F,60 años y más,12,25.41

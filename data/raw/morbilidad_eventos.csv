@@ -1,0 +1,21 @@
+municipio,codigo_divipola,departamento,año,semana_epidemiologica,evento,codigo_sivigila,grupo_etario,sexo,casos_confirmados,casos_probables,casos_descartados,tasa_incidencia_x100mil
+Ciudad Bolívar,05154,Antioquia,2023,1,Dengue,210,15 a 29 años,M,3,2,1,6.22
+Ciudad Bolívar,05154,Antioquia,2023,1,Dengue,210,15 a 29 años,F,2,1,0,4.15
+Ciudad Bolívar,05154,Antioquia,2023,2,Dengue,210,5 a 14 años,M,4,3,1,8.29
+Ciudad Bolívar,05154,Antioquia,2023,3,Dengue,210,15 a 29 años,M,5,2,0,10.37
+Ciudad Bolívar,05154,Antioquia,2023,4,Dengue,210,30 a 44 años,F,2,1,1,4.15
+Ciudad Bolívar,05154,Antioquia,2023,1,Varicela,130,5 a 14 años,M,8,4,2,16.59
+Ciudad Bolívar,05154,Antioquia,2023,2,Varicela,130,5 a 14 años,F,6,3,1,12.44
+Ciudad Bolívar,05154,Antioquia,2023,3,Varicela,130,Menor de 5 años,M,4,2,0,8.29
+Ciudad Bolívar,05154,Antioquia,2023,1,Desnutrición aguda,996,Menor de 5 años,M,5,2,1,10.37
+Ciudad Bolívar,05154,Antioquia,2023,2,Desnutrición aguda,996,Menor de 5 años,F,4,2,0,8.29
+Ciudad Bolívar,05154,Antioquia,2023,3,Desnutrición aguda,996,Menor de 5 años,M,3,1,1,6.22
+Ciudad Bolívar,05154,Antioquia,2023,4,Desnutrición aguda,996,Menor de 5 años,F,3,2,0,6.22
+Ciudad Bolívar,05154,Antioquia,2023,1,Tuberculosis pulmonar,815,15 a 29 años,M,2,1,0,4.15
+Ciudad Bolívar,05154,Antioquia,2023,5,Tuberculosis pulmonar,815,30 a 44 años,M,1,1,0,2.07
+Ciudad Bolívar,05154,Antioquia,2023,2,VIH/SIDA,620,15 a 29 años,M,1,0,0,2.07
+Ciudad Bolívar,05154,Antioquia,2023,8,VIH/SIDA,620,30 a 44 años,M,1,0,0,2.07
+Ciudad Bolívar,05154,Antioquia,2023,1,Hipertensión arterial,H,45 a 59 años,M,45,0,0,93.30
+Ciudad Bolívar,05154,Antioquia,2023,1,Hipertensión arterial,H,45 a 59 años,F,52,0,0,107.84
+Ciudad Bolívar,05154,Antioquia,2023,1,Diabetes mellitus tipo 2,E11,45 a 59 años,F,28,0,0,58.06
+Ciudad Bolívar,05154,Antioquia,2023,1,Diabetes mellitus tipo 2,E11,60 años y más,M,32,0,0,66.37
